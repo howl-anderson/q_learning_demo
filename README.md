@@ -4,6 +4,10 @@
 
 A project show how Q-learning works from scratch
 
+## Blog
+
+[基于 OpenAI Gym 的 Q-Learning 算法演示](http://blog.xiaoquankong.ai/%E5%9F%BA%E4%BA%8E-OpenAI-Gym-%E7%9A%84-Q-Learning-%E7%AE%97%E6%B3%95%E6%BC%94%E7%A4%BA/)
+
 ## Getting Started
 
 Download or git clone this repository.
