@@ -1,10 +1,17 @@
 # Q-Learning-Demo
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/howl-anderson/q_learning_demo/master?filepath=jupyter_notebooks%2Fproof-of-concept.ipynb)
+
 A project show how Q-learning works from scratch
 
 ## Getting Started
 
 Download or git clone this repository.
+
+## Proof of concept
+**Online demo**
+
+A Jupyter notebook is provided to demo online. Link is [here](https://mybinder.org/v2/gh/howl-anderson/q_learning_demo/master?filepath=jupyter_notebooks%2Fproof-of-concept.ipynb).
 
 ### Prerequisites
 
