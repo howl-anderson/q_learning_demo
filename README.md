@@ -1,3 +1,6 @@
+[中文版本的 README](README.zh-Hans.md)
+------------------------------
+
 # Q-Learning-Demo
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/howl-anderson/q_learning_demo/master?filepath=jupyter_notebooks%2Fproof-of-concept.ipynb)
